@@ -12,4 +12,6 @@ for(let i = 0; i < numeros.length; i++)
   {
     console.log(numero[i] + " é um número impar")
   }
+
+//Comentário de teste
 }
